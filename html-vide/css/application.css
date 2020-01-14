@@ -1,0 +1,42 @@
+
+:root{
+    --taille:500px;
+}
+
+
+    h2{
+        color :lightseagreen;
+        font-size : xx-large;
+    }
+    
+.foo{
+    width: 400px;
+    height: 100px;
+}
+
+.bar{
+    border: 10px red solid;
+
+}
+
+#lorem{
+    width:var(--taille);
+    height : var(--taille);
+    border: 1px blue solid;
+    border-radius: 10 px;
+    padding: 20px;
+    margin: 10px;
+}
+#lorem::first-letter{
+
+    font-size: 8;
+}
+
+a:hover{
+    color: red;
+}
+
+a:link, a:visited{
+
+    color:blueviolet;
+}

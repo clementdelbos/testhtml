@@ -1,0 +1,35 @@
+
+
+
+
+.foo{
+    width: 100px;
+    height: 100px;
+}
+
+.bar{
+    border: 5px pink solid;
+}
+
+#photo{
+
+    padding: 20px;
+    margin: 10px;
+    float : left;
+}
+#titre{
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: ;
+    
+}
+
+#feuille{
+   
+    width: 800px;
+    height : 1131px;
+    background-color: rgb(88, 168, 121);
+    
+}
